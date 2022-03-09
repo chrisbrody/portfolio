@@ -1622,7 +1622,7 @@ html[style*='margin-right'] .main-nav {
 .skills .skills-item .skills-item-progress:after {
   content: '';
   position: absolute;
-  left: -12px;
+  left: 100%;
   bottom: -5px;
   width: 12px;
   height: 12px;
